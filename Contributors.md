@@ -244,6 +244,7 @@ Just Testing @Kanak Sharma
 - [Pankti Mehta](https://github.com/Pankti96)
 - [Chris Yee]
 - [Xuan Zhang]
+- [Alexander Maldonado]
 - [Matteo Briani](https://github.com/matteo-briani)
 - [Nick Wilkie]
 - [nquane](https://github.com/nquane)
